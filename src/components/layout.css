@@ -1,0 +1,20 @@
+.frame{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 5px;
+    background-color: lightblue;
+    padding: 15px;
+}
+
+input[type="button"]{
+    height: 40px;
+    width: 75px;
+    margin: 2px;
+    text-align: center;
+}
+
+#zero{
+ width: 150px;
+}
