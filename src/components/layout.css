@@ -6,6 +6,7 @@
     border-radius: 5px;
     background-color: lightblue;
     padding: 15px;
+    max-width: 350px;
 }
 
 input[type="button"]{
@@ -18,3 +19,4 @@ input[type="button"]{
 #zero{
  width: 150px;
 }
+
